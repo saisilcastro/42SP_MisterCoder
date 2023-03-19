@@ -6,11 +6,9 @@
 /*   By: marvin <marvin@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/07 16:39:20 by lde-cast          #+#    #+#             */
-/*   Updated: 2023/03/19 04:12:04 by marvin           ###   ########.fr       */
+/*   Updated: 2023/03/19 06:04:28 by marvin           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <stdio.h>
 
 char	ft_is_upper(char *str);
 char	ft_is_lower(char *str);
